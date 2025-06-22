@@ -63,7 +63,7 @@ Have any questions, doubts or want to present your opinions, views? You're alway
 
 See our rockstar contributors :smile:
 
-[![UberBookingClone Contributors](https://contrib.rocks/image?repo=mutualmobile/UberBookingClone)](https://github.com/mutualmobile/UberBookingClone/graphs/contributors)
+[![UberBookingClone Contributors](https://contrib.rocks/image?repo=DevCat-HGS/UberKotlinAndroidStudio)](https://github.com/DevCat-HGS/UberKotlinAndroidStudio/graphs/contributors)
 
 - If you want to contribute to this library, you're always welcome!
 See [Contributing Guidelines](CONTRIBUTING.md).
