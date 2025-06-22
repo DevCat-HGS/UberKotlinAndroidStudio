@@ -68,12 +68,6 @@ See our rockstar contributors :smile:
 - If you want to contribute to this library, you're always welcome!
 See [Contributing Guidelines](CONTRIBUTING.md).
 
-### :envelope: Get in touch!
-
-[![Medium](https://img.shields.io/badge/-medium-gray?style=for-the-badge&logo=medium)](https://medium.com/mutualmobile)
-[![Twitter](https://img.shields.io/badge/-twitter-gray?style=for-the-badge&logo=twitter)](https://twitter.com/MutualMobile)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/mutualmobile/mycompany/)
-
 
 ### Find this project useful ? ❤️
 
